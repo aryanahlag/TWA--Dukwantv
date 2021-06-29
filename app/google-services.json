@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "304909417582",
+    "firebase_url": "https://kimdookwan-ad728-default-rtdb.firebaseio.com",
+    "project_id": "kimdookwan-ad728",
+    "storage_bucket": "kimdookwan-ad728.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304909417582:android:73063dd39f7025e8d03a7f",
+        "android_client_info": {
+          "package_name": "com.dukwantv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304909417582-u16oo7kr4amttk9u9p8pka6usl3t1gqb.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.dukwantv",
+            "certificate_hash": "f35b5a02b05185b263f580cb2119b82b9e08928b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRvnwEbMzAei-7Fn_t92oSFgLgH7zftr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304909417582-u16oo7kr4amttk9u9p8pka6usl3t1gqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
