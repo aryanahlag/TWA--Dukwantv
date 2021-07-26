@@ -15,7 +15,7 @@ android {
         versionName "1.0"
         manifestPlaceholders = [
                 hostName: "www.dukwantv.com",
-                defaultUrl: "https://www.dukwantv.com",
+                defaultUrl: "https://dukwantv.com",
                 launcherName: "김두관TV",
                 assetStatements: '[{ "relation": ["delegate_permission/common.handle_all_urls"], ' +
                         '"target": {"namespace": "dukwantv", "site": "https://www.dukwantv.com"}}]'
