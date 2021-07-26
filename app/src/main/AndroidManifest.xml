@@ -19,7 +19,9 @@
 <!--        </activity>-->
         <activity
             android:name="com.google.androidbrowserhelper.trusted.LauncherActivity"
-            android:label="${launcherName}">
+            android:label="${launcherName}"
+            android:theme="@style/Theme.AppCompat.NoActionBar"
+            >
             <meta-data
                 android:name="android.support.customtabs.trusted.DEFAULT_URL"
                 android:value="https://dukwantv.com" />
